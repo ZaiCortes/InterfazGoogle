@@ -2,4 +2,7 @@
 
 
 Proyecto creado en Tecnolochicas
-':)' ´xd´
+##índice
+[ 1. Intro ] (#)
+[ 2. Qué construí ] (#)
+[ 3. Objetivo del proyecto ] (#)
